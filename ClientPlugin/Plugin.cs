@@ -36,7 +36,7 @@ namespace MoreInput
         private static bool initialized;
         private static bool failed;
 
-        // My Shit
+        // My Stuff
         RawInputReceiverWindow rirwindow;
         Vector3 MovInput;
         Vector3 RotInput;
